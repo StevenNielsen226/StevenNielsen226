@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenNielsen226
 - 👀 I’m interested in becoming a full stack webdeveloper using the current trends and techonology.
-- 🌱 I’m currently learning javascript and refreshing myself on React and node.js 
+- 🌱 I’m currently refreshing myself on using the MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by email at steven.nielsen226@gmail.com. I am open to learning new ways of doing things and always looking for people to share ideas with and learn from.
 
